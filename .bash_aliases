@@ -1,4 +1,7 @@
 alias cw="ssh sshilton@cloudwatch.monitoringsme.com"
 alias gr="ssh sshilton@graphite.monitoringsme.com"
 alias tbc="ssh sshilton@thebrilliantconsultant.com"
-alias nt="ssh sshilton@ntopng.monitoringsme.com"
+alias uc="ssh sshilton@ubuntuclient.monitoringsme.com"
+alias sw="ssh sshilton@solarwinds.monitoringsme.com"
+alias wc="ssh sshilton@win10client.monitoringsme.com"
+alias elk="ssh sshilton@elk.monitoringsme.com"
